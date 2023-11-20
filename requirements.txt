@@ -2,6 +2,7 @@ notebook
 jupyterlab
 jupysql
 duckdb
+dash
 duckdb-engine
 plotly
 pandas
